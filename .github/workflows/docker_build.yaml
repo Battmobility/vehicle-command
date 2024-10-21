@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     env:
-      IMAGENAME: telematics
+      IMAGENAME: vehicle-command
       REGISTRY: battmobility.azurecr.io
       DIRECTORY: BattMobility
       USERNAME: github
