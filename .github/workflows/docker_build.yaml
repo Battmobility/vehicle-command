@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     env:
-      IMAGENAME: vehicle-command
+      IMAGENAME: tesla-http-proxy
       REGISTRY: battmobility.azurecr.io
       DIRECTORY: BattMobility
       USERNAME: github
